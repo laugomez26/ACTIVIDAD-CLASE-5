@@ -2,3 +2,9 @@ hsasadioasdjisfijfdsgdhfhfhgdfgsfgsgsdg
 dgsdgdsgdgsgsdg
 dsgsdgsgd
 kfkdjfjdgkd
+
+
+
+
+Una vez modificado el archivo en cada repositorio local, ambos deben intentar
+sincronizarlo con el repositorio remoto.
